@@ -11,4 +11,4 @@
 
 ## 在线demo
 
-[https://ink.daidr.me](https://ink.daidr.me "demo")
+[https://tools.fastmirror.net/douBoard](https://tools.fastmirror.net/douBoard "demo")
