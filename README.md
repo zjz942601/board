@@ -11,4 +11,4 @@
 
 ## 在线demo
 
-[https://tools.fastmirror.net/douBoard](https://tools.fastmirror.net/douBoard "demo")
+[https://fastmirror-mc.github.io/douBoard/](https://fastmirror-mc.github.io/douBoard/ "demo")
